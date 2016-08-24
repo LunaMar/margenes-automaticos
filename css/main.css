@@ -1,1 +1,14 @@
-/* Escribe aqui tu CSS */
+.caja1{
+	border: 10px solid yellow;
+	width: 200px;
+	margin-bottom: 15px;
+	padding: 30px;
+	text-align: center;
+}
+.caja2{
+	border:10px solid yellow;
+	width:200px;
+    padding: 30px;
+    text-align:center;
+    margin-left:500px;
+}
